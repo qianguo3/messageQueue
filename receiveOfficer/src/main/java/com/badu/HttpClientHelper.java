@@ -44,7 +44,7 @@ public class HttpClientHelper {
                     e.printStackTrace();
                 }
                 Document document = Jsoup.parse(result);
-//        System.out.println(document);
+                  System.out.println(document);
                 Elements select = document.select("#yzm");
                 String outerHtml = document.outerHtml();
                 String s = select.toString();
