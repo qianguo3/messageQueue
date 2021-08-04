@@ -1,0 +1,5 @@
+com\badu\vo\User.class
+com\badu\queue\QueueSender.class
+com\badu\controller\ActiveMqController.class
+com\badu\queue\getResponser.class
+com\badu\queue\QueueSender$1.class
